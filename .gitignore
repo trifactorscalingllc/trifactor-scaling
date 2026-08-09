@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Blender render outputs (flipbook frames)
+/frames/
+/frames_*/
+*.png.tmp
